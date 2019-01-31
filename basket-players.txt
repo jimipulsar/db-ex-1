@@ -1,0 +1,22 @@
+//Creare la struttura di una tabella per i seguenti casi, cercando di inserire tipi di dato diversi e coerenti con il caso d’uso:
+
+
+- ID - PRIMARY KEY | NOT NULL | AUTO INCREMENT | UNIQUE
+- Campionato - VARCHAR(5)
+- Squadra - VARCHAR(30)
+- Nome - VARCHAR(15) | NOT NULL
+- Cognome - VARCHAR(15) | NOT NULL
+- Nazionalità - VARCHAR(5)
+- Altezza - FLOAT (5, 2)
+- Peso - FLOAT (5, 2)
+- Età - TINYINT
+- Ranking - TINYINT
+- Numero - TINYINT
+- Ruolo - VARCHAR(15)
+- Partite - TINYINT
+- Punti - TINYINT
+- Rimbalzi - FLOAT (4, 2)
+- Assists - FLOAT (4, 2)
+- % 2 Punti - FLOAT (4, 2)
+- % 3 Punti - FLOAT (4, 2)
+- Minuti - FLOAT (5, 1)

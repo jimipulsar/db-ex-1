@@ -1,0 +1,30 @@
+//Creare la struttura di una tabella per i seguenti casi, cercando di inserire tipi di dato diversi e coerenti con il caso d’uso:
+
+Colonne:
+
+- ID - PRIMARY KEY | NOT NULL | AUTO INCREMENT | UNIQUE
+- Targa - VARCHAR (7) | NOT NULL
+- Marca - (15) | NOT NULL
+- Modello - VARCHAR (20) | NOT NULL
+- Cilindrata - SMALLINT
+- CV - FLOAT (5, 2)
+- KW - FLOAT (5, 2)
+- Garanzia - DEFAULT 0
+- KM - MEDIUMINT
+- Immatricolazione - YEAR
+- Colore - VARCHAR (30)
+- Optional - TEXT
+- Trazione - VARCHAR (15)
+- Cambio - DEFAULT 0
+- Carrozzeria - VARCHAR (20)
+- Carburante - VARCHAR (6)
+- N Posti - TINYINT
+- N Porte - DEFAULT 0
+- Prezzo - FLOAT (8, 2)
+- Proprietari - TINYINT
+- Nazionalità - VARCHAR (5)
+- Lunghezza - FLOAT (5, 2)
+- Larghezza - FLOAT (5, 2)
+- Altezza - FLOAT (5, 2)
+- Cerchioni - TINYINT
+- Revisione - DEFAULT 0
